@@ -142,7 +142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 3636939301125086131, guid: b31b89cdbf705e74f8e7589d7c3f602f, type: 3}
   spawnLocation: {fileID: 1923293091}
-  fireRate: 0.1
+  fireRate: 3
 --- !u!4 &322665898 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4288335847994348, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
